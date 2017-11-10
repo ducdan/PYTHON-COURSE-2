@@ -31,5 +31,5 @@
 * Session 2: Jquery
 ## Week 8:
 * Session 1: Setup Flask, deploy Hello world Flask, structure a Flask project, build a blog </br>
-* Session 2: Extend the blog, authentication using Flask-Login
+* Session 2: Extend the blog, authentication using Flask-Login</br>
 <b> Project: Blogful </b>
