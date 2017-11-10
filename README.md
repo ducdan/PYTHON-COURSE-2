@@ -10,7 +10,7 @@
 * Session 1: Data Collections (list, tuple, dictionary), Strings
 <b> Project: Bartender </b>
 * Session 2:  Object & Class, constructor, initializing data/object, creating instances</br>
-## Week 3 (Unit 2 – Analysis):
+## Week 3:
 * Session 1: inheritance, overriding, multiple inheritance </br>
 <b> Project: Bicycle </b>
 * Session 2: continue Bicycle project, finish up unit 1
